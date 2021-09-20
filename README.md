@@ -17,5 +17,4 @@ Here are the technologies used in this project.
 * Thiago Gaitkoski: (https://github.com/ThiagoGaitkoski)
  
  
-Please follow github and join us!
 Thanks to visiting me and good coding!
